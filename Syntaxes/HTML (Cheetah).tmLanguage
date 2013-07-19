@@ -241,13 +241,13 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>#(attr|del|echo|filter|silent|super)\b</string>
+			<string>#(attr|del|echo|filter|silent|super|return)\b</string>
 			<key>name</key>
 			<string>keyword.other.cheetah</string>
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>^#set(\s+global)?</string>
+			<string>#set(\s+global)?</string>
 			<key>name</key>
 			<string>keyword.other.cheetah</string>
 		</dict>
