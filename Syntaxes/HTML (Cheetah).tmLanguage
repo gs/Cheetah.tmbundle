@@ -131,7 +131,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\$[a-zA-Z\_\.\-\s]*</string>
+			<string>\$[a-zA-Z\_\.\-\s\d]*</string>
 			<key>name</key>
 			<string>variable.other.cheetah</string>
 		</dict>
