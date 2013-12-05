@@ -223,7 +223,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>#(end )?(for|if|repeat|try|unless|while)\b</string>
+			<string>#(end )?(for|if|elif|repeat|try|unless|while)\b</string>
 			<key>name</key>
 			<string>keyword.control.cheetah</string>
 		</dict>
